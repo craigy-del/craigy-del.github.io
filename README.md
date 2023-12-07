@@ -8,7 +8,7 @@ Welcome to the wonderful world of dogs! Dogs are not just pets; they are loyal c
 ## 1. Varied Breeds
 Dogs come in a vast array of breeds, each with its unique characteristics. From the tiny Chihuahua to the majestic Great Dane, there's a dog breed for every preference.
 
-![Dog Breeds](https://i.pinimg.com/originals/b6/5d/ea/b65dea99ec670db281e349b43cca668c.jpg){: width="50%" height="50%"}
+![Dog Breeds](https://i.pinimg.com/originals/b6/5d/ea/b65dea99ec670db281e349b43cca668c.jpg)
 
 
 
