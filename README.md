@@ -1,9 +1,23 @@
 # craigy-del.github.io
 Craig Jacob E. Villanueva
-![eminem](https://i.pinimg.com/736x/8b/9b/bc/8b9bbc9d7fb9029d5d5bfa4c22e2d3d0.jpg](https://media.npr.org/assets/img/2017/09/12/macaca_nigra_self-portrait-3e0070aa19a7fe36e802253048411a38f14a79f8-s1100-c50.jpg)https://media.npr.org/assets/img/2017/09/12/macaca_nigra_self-portrait-3e0070aa19a7fe36e802253048411a38f14a79f8-s1100-c50.jpg](https://www.ocregister.com/wp-content/uploads/migration/kpj/kpja2d-21eminem12lg.jpg?w=620).
+# All About Dogs
 
+## Introduction
+Welcome to the wonderful world of dogs! Dogs are not just pets; they are loyal companions, intelligent beings, and delightful members of our families. In this section, discover five fascinating facts about these incredible creatures that make them beloved around the globe.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_0JjYUe5jo?si=ndqip9zkVRedAq5e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## 1. Varied Breeds
+Dogs come in a vast array of breeds, each with its unique characteristics. From the tiny Chihuahua to the majestic Great Dane, there's a dog breed for every preference.
 
+## 2. Exceptional Senses
+Dogs possess incredible senses. Their sense of smell is particularly remarkable, with some breeds being trained for tasks like search and rescue or detecting medical conditions.
+
+## 3. Loyal Companionship
+Known for their loyalty, dogs make wonderful companions. They form strong bonds with their owners, providing not only friendship but also emotional support.
+
+## 4. Diverse Abilities
+Dogs showcase diverse talents. From herding and guarding to performing tricks, dogs can be trained for various tasks, showcasing their intelligence and versatility.
+
+## 5. Positive Impact on Health
+Interacting with dogs has been linked to various health benefits. From reducing stress and anxiety to promoting physical activity through walks and play, the presence of dogs can significantly improve human well-being.
 
 
